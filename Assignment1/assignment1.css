@@ -1,0 +1,27 @@
+body
+{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: #003366
+}
+
+.class
+{
+    text-align: left;
+}
+
+.divbody
+{
+    background-color: #FFFFFF;
+}
+
+.header
+{
+    text-align: center;
+}
+
+.button
+{
+    text-align: center;
+}
